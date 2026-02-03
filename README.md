@@ -47,3 +47,18 @@ Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger 
 Le cours s'appuie sur les standards de l'industrie :
 * **Client-First :** Système de nommage de classes organisé et évolutif.
 * **Finsweet Extension :** Utilisation d'outils tiers pour optimiser le workflow.
+
+--
+
+## ➡️ Lien vers le prochain cours <a href="https://github.com/vallata/html-et-css-part-4" target="_blanck">ici</a>
+
+-- Accès rapide et plan -- </br>
+<a href="https://github.com/vallata/html-et-css-part-1" target="_blanck">Cours 1 - Les bases</a></br>
+<a href="https://github.com/vallata/html-et-css-part-2" target="_blanck">Cours 2 - Div, Class et ID</a></br>
+<a href="https://github.com/vallata/html-et-css-part-3" target="_blanck">Cours 3 - FlexBox, Components</a></br>
+<a href="https://github.com/vallata/html-et-css-part-4" target="_blanck">Cours 4 - Grid, Media queries, services tiers</a></br>
+<a href="https://github.com/vallata/html-et-css-part-5" target="_blanck">Cours 5 - Mise en ligne du site</a></br>
+<a href="https://github.com/vallata/webflow-part-1/" target="_blanck">Les cours de Webflow</a></br>
+
+
+
