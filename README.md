@@ -37,18 +37,29 @@ Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger 
 * **Mise en page :** Maîtrise de Flexbox et CSS Grid.
 * **Responsive Design :** Adaptation du site sur Tablettes et Mobiles via les breakpoints.
 
-### 4. Composants et Réutilisation
+### 4. Publier son site
+
+### 5. Webflow et flexbox
+* Tuto création d'une section en flexbox
+
+### 6. Webflow et grid
+* Tuto création d'une section avec grid
+
+### 7. Composants et Réutilisation
 * Création de symboles/composants (Navbar, Footer).
 * Mise en place d'un **Style Guide** centralisé pour la maintenance.
 
+### 8. Webflow page SEO
+* Paramétrer le SEO de chacune de ses pages
+
+### 9. Design faster
+* App Finsweet Components
+* Templates
+
+### 10. Bonnes pratiques
+* Style Guide
+* Utilisation de ChatGpt
 ---
-
-## 📐 Méthodologie & Frameworks
-Le cours s'appuie sur les standards de l'industrie :
-* **Client-First :** Système de nommage de classes organisé et évolutif.
-* **Finsweet Extension :** Utilisation d'outils tiers pour optimiser le workflow.
-
---
 
 ## ➡️ Lien vers le prochain cours <a href="https://github.com/vallata/html-et-css-part-4" target="_blanck">ici</a>
 
