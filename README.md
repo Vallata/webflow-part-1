@@ -11,7 +11,7 @@
 Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger vos propres images.
 
 <a href="https://github.com/vallata/webflow-part-1/" target="_blanck">Cours 1 - Intro à Webflow</a></br>
-
+ 
 ## 🎯 Objectifs du cours
 * Maîtriser l'interface de développement Webflow.
 * Appliquer les concepts fondamentaux du web (Box Model, Flexbox, Grid) visuellement.
