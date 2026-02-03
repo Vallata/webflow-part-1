@@ -39,26 +39,22 @@ Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger 
 
 ### 4. Publier son site
 
-### 5. Webflow et flexbox
-* Tuto création d'une section en flexbox
+### 5. LIVE CODE CREATION DE SON SITE 
+* Navbar & Footer
+* Webflow et flexbox
+* Webflow et grid
+* Webflow components
+* Webflow page SEO
+* Responsive
 
-### 6. Webflow et grid
-* Tuto création d'une section avec grid
-
-### 7. Composants et Réutilisation
-* Création de symboles/composants (Navbar, Footer).
-* Mise en place d'un **Style Guide** centralisé pour la maintenance.
-
-### 8. Webflow page SEO
-* Paramétrer le SEO de chacune de ses pages
-
-### 9. Design faster
+### 6. Design faster
 * App Finsweet Components
 * Templates
 
-### 10. Bonnes pratiques
+### 7. Bonnes pratiques
 * Style Guide
 * Utilisation de ChatGpt
+
 ---
 
 ## ➡️ Lien vers le prochain cours <a href="https://github.com/vallata/html-et-css-part-4" target="_blanck">ici</a>
