@@ -48,11 +48,11 @@ Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger 
 * Responsive
 
 ### 6. Design faster
+* Style Guide
 * App Finsweet Components
 * Templates
 
-### 7. Bonnes pratiques
-* Style Guide
+### 7. Accompagnement IA 
 * Utilisation de ChatGpt
 
 ---
