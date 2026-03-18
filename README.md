@@ -8,8 +8,6 @@
 
 ## Lien vers <a href="https://www.webflow.com" target="_blank">Webflow</a>
 
-Vous pouvez télécharger les images dans le dossier ci-dessus ou télécharger vos propres images.
-
 <a href="https://github.com/vallata/webflow-part-1/" target="_blanck">Cours 1 - Intro à Webflow</a></br>
  
 ## Objectifs du cours
